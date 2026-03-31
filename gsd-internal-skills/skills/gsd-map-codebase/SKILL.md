@@ -1,3 +1,8 @@
+---
+name: gsd-map-codebase
+description: 用于既有系统分析，在接手老项目、做新功能前或重构排障前梳理代码结构、模块边界、依赖、约定和风险，并输出 CODEBASE_MAP.md。
+---
+
 # gsd-map-codebase
 
 ## 作用

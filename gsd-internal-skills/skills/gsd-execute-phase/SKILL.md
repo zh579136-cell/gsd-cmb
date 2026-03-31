@@ -1,3 +1,8 @@
+---
+name: gsd-execute-phase
+description: 用于按计划执行一个 phase，记录任务推进、执行日志、偏差说明、变更范围和未完成项，并持续更新 TASKS.md 与 STATE.md。
+---
+
 # gsd-execute-phase
 
 ## 作用

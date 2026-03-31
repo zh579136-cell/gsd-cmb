@@ -1,3 +1,8 @@
+---
+name: gsd-fast
+description: 用于快速处理小改动、小 bug 和轻量调整，在不启动完整 phase 流程时仍保留最小记录和基础验证。
+---
+
 # gsd-fast
 
 ## 作用

@@ -1,3 +1,8 @@
+---
+name: gsd-new-project
+description: 用于新需求或新项目初始化，帮助收敛目标、范围、约束、需求和 roadmap，并初始化 .planning 状态文件。
+---
+
 # gsd-new-project
 
 ## 作用

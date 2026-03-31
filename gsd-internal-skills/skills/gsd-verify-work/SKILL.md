@@ -1,3 +1,8 @@
+---
+name: gsd-verify-work
+description: 用于对已完成工作做自动验证和人工验收引导，记录验证结果、问题清单和返工建议，并输出 VERIFY.md。
+---
+
 # gsd-verify-work
 
 ## 作用

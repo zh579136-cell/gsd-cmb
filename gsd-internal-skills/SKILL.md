@@ -1,3 +1,8 @@
+---
+name: gsd-internal-skills
+description: 用于内网研发场景的工程工作流技能，适合既有系统分析、新需求初始化、phase 澄清、phase 规划、执行、验证、排障和小任务快修。
+---
+
 # gsd
 
 ## 作用

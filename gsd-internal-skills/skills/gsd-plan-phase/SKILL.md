@@ -1,3 +1,8 @@
+---
+name: gsd-plan-phase
+description: 用于 phase 研究与规划，把目标拆成可执行任务，补依赖分析、风险点和验收标准，并输出 PLAN.md 与 TASKS.md。
+---
+
 # gsd-plan-phase
 
 ## 作用

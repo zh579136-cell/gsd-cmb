@@ -1,3 +1,8 @@
+---
+name: gsd-discuss-phase
+description: 用于某个 phase 的边界澄清与上下文锁定，在规划前整理灰区、决策、限制、参考资料和延后项，并输出 CONTEXT.md。
+---
+
 # gsd-discuss-phase
 
 ## 作用
