@@ -34,7 +34,7 @@
 
 ### 3. `gsd-map-codebase`
 
-用于既有系统分析。负责梳理代码结构、模块边界、约定、测试方式、风险和历史包袱，为后续 planning 提供背景。
+用于既有系统分析。负责梳理代码结构、模块边界、约定、测试方式、风险和历史包袱，为后续 planning 提供背景。对于 Java 后端项目，还会额外生成接口索引 `FEATURE_TREE.md`。
 
 ### 4. `gsd-discuss-phase`
 
@@ -110,6 +110,7 @@
 - `TASKS.md`：执行拆解与状态
 - `VERIFY.md`：验证结论、问题和返工建议
 - `CODEBASE_MAP.md`：既有系统地图
+- `FEATURE_TREE.md`：后端服务项目的接口索引补充文件
 
 ## 原版 GSD 名称与当前目录的对应关系
 

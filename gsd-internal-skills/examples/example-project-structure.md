@@ -12,6 +12,7 @@ project-root/
     ROADMAP.md
     STATE.md
     CODEBASE_MAP.md
+    FEATURE_TREE.md
     phases/
       phase-01-foundation/
         CONTEXT.md
@@ -49,6 +50,9 @@ project-root/
 - `CODEBASE_MAP.md`
   - 适合既有系统，用来沉淀架构、模块、约定、风险
 
+- `FEATURE_TREE.md`
+  - 适合 Java 后端项目，用来沉淀接口索引、业务域分组和主要端点说明
+
 ### phase 级
 
 - `CONTEXT.md`
@@ -76,7 +80,8 @@ project-root/
 ### 既有系统
 
 1. 先用 `gsd-map-codebase` 生成 `CODEBASE_MAP.md`
-2. 后续流程与新项目一致
+2. 如果是 Java 后端项目，再补 `FEATURE_TREE.md`
+3. 后续流程与新项目一致
 
 ## 一个最小的 phase 生命周期
 

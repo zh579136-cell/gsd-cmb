@@ -97,6 +97,7 @@ global-skills/
 - `templates/TASKS.md`
 - `templates/VERIFY.md`
 - `templates/CODEBASE_MAP.md`
+- `templates/FEATURE_TREE.md`
 
 ### 原则 3：统一维护 `.planning/`
 
@@ -123,7 +124,8 @@ global-skills/
 
 1. 进入 `skills/gsd-map-codebase/SKILL.md`
 2. 产出 `CODEBASE_MAP.md`
-3. 再按 discuss -> plan -> execute -> verify 顺序推进
+3. 若识别为 Java 后端项目，额外产出 `FEATURE_TREE.md`
+4. 再按 discuss -> plan -> execute -> verify 顺序推进
 
 ### 问题处理
 
